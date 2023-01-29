@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28ae63e6-9c36-43a9-ba94-238f9f04e2de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StudyProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/University.java" afterDir="false" />
-    </list>
+    <list default="true" id="28ae63e6-9c36-43a9-ba94-238f9f04e2de" name="Changes" comment="Базовый вариант" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,8 +69,16 @@
       <updated>1674409938987</updated>
       <workItem from="1674409940688" duration="1030000" />
       <workItem from="1674923426887" duration="36000" />
-      <workItem from="1675013961382" duration="1296000" />
+      <workItem from="1675013961382" duration="1532000" />
     </task>
+    <task id="LOCAL-00001" summary="Базовый вариант">
+      <created>1675015358940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675015358940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Базовый вариант" />
+    <option name="LAST_COMMIT_MESSAGE" value="Базовый вариант" />
   </component>
 </project>
