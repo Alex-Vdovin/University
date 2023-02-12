@@ -8,10 +8,12 @@ public enum StudyProfile {
     COOKING("Кулинария");
 
     private String profileName;
-    StudyProfile(String profileName){
+
+    StudyProfile(String profileName) {
         this.profileName = profileName;
     }
-    public String getProfileName(){
+
+    public String getProfileName() {
         return profileName;
     }
 
