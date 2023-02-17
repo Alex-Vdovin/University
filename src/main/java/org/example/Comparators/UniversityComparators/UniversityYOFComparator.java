@@ -1,4 +1,4 @@
-package org.example.UniversityComparators;
+package org.example.Comparators.UniversityComparators;
 
 import org.example.Interfaces.UniversityComparator;
 import org.example.Model.University;

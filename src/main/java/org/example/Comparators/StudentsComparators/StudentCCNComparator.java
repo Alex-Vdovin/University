@@ -1,4 +1,4 @@
-package org.example.StudentsComparators;
+package org.example.Comparators.StudentsComparators;
 
 import org.example.Model.Student;
 import org.example.Interfaces.StudentComparator;

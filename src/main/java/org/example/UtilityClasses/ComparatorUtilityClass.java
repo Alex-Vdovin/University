@@ -4,11 +4,11 @@ import org.example.Enums.Comparators.StudentComparators;
 import org.example.Enums.Comparators.UniversityComparators;
 import org.example.Interfaces.StudentComparator;
 import org.example.Interfaces.UniversityComparator;
-import org.example.StudentsComparators.StudentAESComparator;
-import org.example.StudentsComparators.StudentCCNComparator;
-import org.example.StudentsComparators.StudentFullNameComparator;
-import org.example.StudentsComparators.StudentUniversityIdComparator;
-import org.example.UniversityComparators.*;
+import org.example.Comparators.StudentsComparators.StudentAESComparator;
+import org.example.Comparators.StudentsComparators.StudentCCNComparator;
+import org.example.Comparators.StudentsComparators.StudentFullNameComparator;
+import org.example.Comparators.StudentsComparators.StudentUniversityIdComparator;
+import org.example.Comparators.UniversityComparators.*;
 
 public class ComparatorUtilityClass {
     private ComparatorUtilityClass() {
