@@ -4,28 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28ae63e6-9c36-43a9-ba94-238f9f04e2de" name="Changes" comment="Добавлены Comparator-ы">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="28ae63e6-9c36-43a9-ba94-238f9f04e2de" name="Changes" comment="Реализовано чтение из таблицы">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Interfaces/StudentComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Interfaces/StudentComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Interfaces/UniversityComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Interfaces/UniversityComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentAESComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentAESComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentCCNComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentCCNComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Interfaces/StudentComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentComparators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Enums/Comparators/StudentComparators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentFullNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentFullNameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentUniversityIdComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentUniversityIdComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudyProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Enums/StudyProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/University.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Interfaces/UniversityComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Enums/Comparators/UniversityComparators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityFullNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityFullNameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityMainProfileComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityMainProfileComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityShortNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityShortNameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityYOFComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityYOFComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversutyIdComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversutyIdComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UtilityClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UtilityClasses/ComparatorUtilityClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentAESComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentAESComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentCCNComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentCCNComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentFullNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentFullNameComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentUniversityIdComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentUniversityIdComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Model/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityFullNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityFullNameComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityMainProfileComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityMainProfileComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityShortNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityShortNameComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityYOFComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityYOFComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversutyIdComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversutyIdComparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +109,7 @@
       <workItem from="1676282962718" duration="1233000" />
       <workItem from="1676302587983" duration="1983000" />
       <workItem from="1676482147152" duration="1470000" />
-      <workItem from="1676623638805" duration="2748000" />
+      <workItem from="1676623638805" duration="5650000" />
     </task>
     <task id="LOCAL-00001" summary="Базовый вариант">
       <created>1675015358940</created>
@@ -138,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676208531921</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Реализовано чтение из таблицы">
+      <created>1676627318899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676627318899</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +159,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Базовый вариант" />
     <MESSAGE value="Добавлены Comparator-ы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлены Comparator-ы" />
+    <MESSAGE value="Реализовано чтение из таблицы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Реализовано чтение из таблицы" />
   </component>
 </project>

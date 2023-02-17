@@ -2,7 +2,7 @@ package org.example.UniversityComparators;
 
 import org.apache.commons.lang3.StringUtils;
 import org.example.Interfaces.UniversityComparator;
-import org.example.University;
+import org.example.Model.University;
 
 public class UniversityFullNameComparator implements UniversityComparator {
     @Override

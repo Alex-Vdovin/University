@@ -1,6 +1,6 @@
 package org.example.Interfaces;
 
-import org.example.Student;
+import org.example.Model.Student;
 
 import java.util.Comparator;
 

@@ -2,7 +2,7 @@ package org.example.StudentsComparators;
 
 import org.apache.commons.lang3.StringUtils;
 import org.example.Interfaces.StudentComparator;
-import org.example.Student;
+import org.example.Model.Student;
 
 public class StudentFullNameComparator implements StudentComparator {
     @Override

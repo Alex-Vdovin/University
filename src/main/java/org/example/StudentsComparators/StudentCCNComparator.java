@@ -1,6 +1,6 @@
 package org.example.StudentsComparators;
 
-import org.example.Student;
+import org.example.Model.Student;
 import org.example.Interfaces.StudentComparator;
 
 public class StudentCCNComparator implements StudentComparator {
