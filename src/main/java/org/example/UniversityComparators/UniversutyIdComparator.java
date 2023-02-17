@@ -1,6 +1,8 @@
-package org.example;
+package org.example.UniversityComparators;
 
 import org.apache.commons.lang3.StringUtils;
+import org.example.Interfaces.UniversityComparator;
+import org.example.University;
 
 public class UniversutyIdComparator implements UniversityComparator {
     @Override

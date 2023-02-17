@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.Enums.StudyProfile;
+
 public class University {
     private String id;
     private String fullName;
@@ -13,6 +15,9 @@ public class University {
         this.shortName = shortName;
         this.yearOfFoundation = yearOfFoundation;
         this.mainProfile = mainProfile;
+    }
+    public University(){
+
     }
 
     public String getId() {

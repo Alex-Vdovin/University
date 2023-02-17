@@ -1,4 +1,7 @@
-package org.example;
+package org.example.UniversityComparators;
+
+import org.example.Interfaces.UniversityComparator;
+import org.example.University;
 
 public class UniversityYOFComparator implements UniversityComparator {
     @Override

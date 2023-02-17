@@ -1,6 +1,17 @@
-package org.example;
-public class UtilityClass {
-    private UtilityClass() {
+package org.example.UtilityClasses;
+
+import org.example.Enums.Comparators.StudentComparators;
+import org.example.Enums.Comparators.UniversityComparators;
+import org.example.Interfaces.StudentComparator;
+import org.example.Interfaces.UniversityComparator;
+import org.example.StudentsComparators.StudentAESComparator;
+import org.example.StudentsComparators.StudentCCNComparator;
+import org.example.StudentsComparators.StudentFullNameComparator;
+import org.example.StudentsComparators.StudentUniversityIdComparator;
+import org.example.UniversityComparators.*;
+
+public class ComparatorUtilityClass {
+    private ComparatorUtilityClass() {
     }
 
     public static final UniversityComparator getUniversityComparator(UniversityComparators universityComparators) throws Exception {

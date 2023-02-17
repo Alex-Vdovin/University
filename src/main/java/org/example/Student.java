@@ -19,6 +19,9 @@ public class Student {
         this.currentCourseNumber = currentCourseNumber;
         this.avgExamScore = 0;
     }
+    public Student(){
+
+    }
 
     @Override
     public String toString() {

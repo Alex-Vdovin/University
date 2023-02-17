@@ -1,4 +1,7 @@
-package org.example;
+package org.example.StudentsComparators;
+
+import org.example.Student;
+import org.example.Interfaces.StudentComparator;
 
 public class StudentAESComparator implements StudentComparator {
     @Override

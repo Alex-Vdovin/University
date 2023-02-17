@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Enums.Comparators;
 
 public enum UniversityComparators {
     UNIVERSITY_FULL_NAME_COMPARATOR,

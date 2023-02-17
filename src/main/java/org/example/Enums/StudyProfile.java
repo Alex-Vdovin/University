@@ -1,11 +1,16 @@
-package org.example;
+package org.example.Enums;
 
 public enum StudyProfile {
     ENGINEER("Инженеры"),
     PILOT("Пилоты"),
     ATC("Диспетчеры"),
     MEDICINE("Медицина"),
-    COOKING("Кулинария");
+    COOKING("Кулинария"),
+    PHYSICS("Физика"),
+    COMPUTER_SCIENCE("Информатика"),
+    MATHEMATICS("Математика"),
+    JURISPRUDENCE("Юриспруденция"),
+    LINGUISTICS("Лингвистика");
 
     private String profileName;
 

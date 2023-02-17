@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Enums.Comparators;
 
 public enum StudentComparators {
     STUDENT_AES_COMPARATOR,
