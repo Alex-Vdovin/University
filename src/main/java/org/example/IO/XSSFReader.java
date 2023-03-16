@@ -6,8 +6,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.example.Enums.StudyProfile;
 import org.example.Model.Student;
 import org.example.Model.University;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import java.util.logging.*;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -20,28 +19,28 @@ public class XSSFReader {
     private XSSFReader() {
 
     }
-    private static final Logger logger = LoggerFactory.getLogger(XSSFReader.class);
+    private static final Logger logger = Logger.getLogger(XSSFReader.class.getName());
     public static List<Student> readStudents(String filePath) {
-        logger.info("Началось чтение файла");
+        logger.log(Level.INFO,"Началось чтение файла" );
         List<Student> students = new ArrayList<>();
         FileInputStream fis;
         try {
             fis = new FileInputStream(filePath);
-            logger.info("Файл прочитан");
+            logger.log(Level.INFO,"Файл прочитан" );
         } catch (FileNotFoundException e) {
-            logger.error("Не удалось прочитать файл", e);
+            logger.log(Level.SEVERE,"Не удалось прочитать файл", e );
             throw new RuntimeException(e);
         }
         XSSFWorkbook workbook;
         try {
             workbook = new XSSFWorkbook(fis);
-            logger.info("Workbook создан");
+            logger.log(Level.INFO, "Workbook создан");
         } catch (IOException e) {
-            logger.error("Не удалось создать новый workbook", e);
+            logger.log(Level.SEVERE,"Не удалось создать новый workbook", e );
             throw new RuntimeException(e);
         }
         XSSFSheet sheet = workbook.getSheet("Студенты");
-        logger.info("Лист " + sheet.getSheetName() + " прочитан");
+        logger.log(Level.INFO, "Лист " + sheet.getSheetName() + " прочитан");
         Iterator<Row> rows = sheet.iterator();
         rows.next();
 
@@ -54,30 +53,30 @@ public class XSSFReader {
             student.setAvgExamScore((float) currentRow.getCell(3).getNumericCellValue());
             students.add(student);
         }
-        logger.info("Чтение файла завершено");
+        logger.log(Level.INFO,"Чтение файла завершено" );
         return students;
     }
     public static List<University> readUniversity(String filePath){
-        logger.info("Началось чтение файла");
+        logger.log(Level.INFO,"Началось чтение файла" );
         List<University> universities = new ArrayList<>();
         FileInputStream fis;
         try {
             fis = new FileInputStream(filePath);
-            logger.info("Файл прочитан");
+            logger.log(Level.INFO,"Файл прочитан" );
         } catch (FileNotFoundException e) {
-            logger.error("Не удалось прочитать файл", e);
+            logger.log(Level.SEVERE,"Не удалось прочитать файл", e );
             throw new RuntimeException(e);
         }
         XSSFWorkbook workbook;
         try {
             workbook = new XSSFWorkbook(fis);
-            logger.info("Workbook создан");
+            logger.log(Level.INFO, "Workbook создан");
         } catch (IOException e) {
-            logger.error("Не удалось создать новый workbook", e);
+            logger.log(Level.SEVERE,"Не удалось создать новый workbook", e );
             throw new RuntimeException(e);
         }
         XSSFSheet sheet = workbook.getSheet("Университеты");
-        logger.info("Лист " + sheet.getSheetName() + " прочитан");
+        logger.log(Level.INFO, "Лист " + sheet.getSheetName() + " прочитан");
         Iterator<Row> rows = sheet.iterator();
         rows.next();
         while(rows.hasNext()){
@@ -90,7 +89,7 @@ public class XSSFReader {
             university.setMainProfile(StudyProfile.valueOf(StudyProfile.class, currentRow.getCell(4).getStringCellValue()));
             universities.add(university);
         }
-        logger.info("Чтение файла завершено");
+        logger.log(Level.INFO,"Чтение файла завершено" );
         return universities;
     }
 }

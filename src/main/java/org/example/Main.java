@@ -11,21 +11,30 @@ import org.example.Model.University;
 import org.example.UtilityClasses.ComparatorUtilityClass;
 import org.example.UtilityClasses.JsonUtil;
 import org.example.UtilityClasses.StatisticsUtil;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Arrays;
+import java.util.logging.*;
 
 import java.util.List;
 
 public class Main {
-    private static final Logger logger = LoggerFactory.getLogger(Main.class);
-    public static void main(String[] args) throws Exception {
-        logger.info("Начало работы программы");
+    private static final Logger logger = Logger.getLogger(Main.class.getName());
+    public static void main(String[] args){
+        try {
+            LogManager.getLogManager().readConfiguration(new FileInputStream("C:\\Users\\avavi\\University\\src\\main\\resources\\logging.properties"));
+        }catch (IOException e){
+            System.out.println("Ошибка с чтением файла конфигурации логирования" + Arrays.toString(e.getStackTrace()));
+        }
+
+        logger.log(Level.INFO, "Начало работы программы");
         String filePath = "src/main/resources/universityInfo.xlsx";
         List<University> universities = XSSFReader.readUniversity(filePath);
         List<Student> students = XSSFReader.readStudents(filePath);
 
         List<Statistics> statisticsList = StatisticsUtil.createStatistics(students, universities);
         XlsWriter.writeStatistics(statisticsList, "src/main/resources/statistics.xlsx");
-        logger.info("Работа программы завершена");
+        logger.log(Level.INFO,"Работа программы завершена" );
     }
 }

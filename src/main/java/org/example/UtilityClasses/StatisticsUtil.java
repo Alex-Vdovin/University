@@ -5,8 +5,7 @@ import org.example.Enums.StudyProfile;
 import org.example.Model.Statistics;
 import org.example.Model.Student;
 import org.example.Model.University;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import java.util.logging.*;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
@@ -18,9 +17,9 @@ import java.util.stream.Collectors;
 
 public class StatisticsUtil {
     private StatisticsUtil(){}
-    private static final Logger logger = LoggerFactory.getLogger(StatisticsUtil.class);
+    private static final Logger logger = Logger.getLogger(StatisticsUtil.class.getName());
     public static List<Statistics> createStatistics(List<Student> students, List<University> universities){
-        logger.info("Начал работы со статистикой");
+        logger.log(Level.INFO, "Начал работы со статистикой");
         List<Statistics> statisticsList = new ArrayList<>();
         Set<StudyProfile> studyProfiles = universities.stream()
                 .map(University::getMainProfile)
@@ -52,7 +51,7 @@ public class StatisticsUtil {
                     statistics.setAvgExamScore((float) BigDecimal.valueOf(value).setScale(2, RoundingMode.HALF_UP).doubleValue()));
 
         });
-        logger.info("Работа со статистикой завершена", statisticsList);
+        logger.log(Level.INFO, "Завершение работы со статистикой", statisticsList);
         return statisticsList;
     }
 
