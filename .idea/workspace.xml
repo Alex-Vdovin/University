@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28ae63e6-9c36-43a9-ba94-238f9f04e2de" name="Changes" comment="Реализовано чтение из таблицы">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="28ae63e6-9c36-43a9-ba94-238f9f04e2de" name="Changes" comment="Добавлен сбор статистики">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IO/XSSFReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/IO/XSSFReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IO/XlsWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/IO/XlsWriter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentAESComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Comparators/StudentsComparators/StudentAESComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentCCNComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Comparators/StudentsComparators/StudentCCNComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentFullNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Comparators/StudentsComparators/StudentFullNameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentsComparators/StudentUniversityIdComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Comparators/StudentsComparators/StudentUniversityIdComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityFullNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Comparators/UniversityComparators/UniversityFullNameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityMainProfileComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Comparators/UniversityComparators/UniversityMainProfileComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityShortNameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Comparators/UniversityComparators/UniversityShortNameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversityYOFComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Comparators/UniversityComparators/UniversityYOFComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UniversityComparators/UniversutyIdComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Comparators/UniversityComparators/UniversutyIdComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UtilityClasses/ComparatorUtilityClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UtilityClasses/ComparatorUtilityClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UtilityClasses/StatisticsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UtilityClasses/StatisticsUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/statistics.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/statistics.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676627318899</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Добавлен сбор статистики">
+      <created>1678216367964</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678216367964</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +159,8 @@
     <MESSAGE value="Базовый вариант" />
     <MESSAGE value="Добавлены Comparator-ы" />
     <MESSAGE value="Реализовано чтение из таблицы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Реализовано чтение из таблицы" />
+    <MESSAGE value="Добавлена статистика" />
+    <MESSAGE value="Добавлен сбор статистики" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен сбор статистики" />
   </component>
 </project>
