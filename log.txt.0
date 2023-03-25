@@ -291,3 +291,3000 @@
   <message>Работа программы завершена</message>
 </record>
 </log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-25T14:50:08.991899900Z</date>
+  <millis>1679755808991</millis>
+  <nanos>899900</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Начало работы программы</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:09.058404200Z</date>
+  <millis>1679755809058</millis>
+  <nanos>404200</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:09.065384800Z</date>
+  <millis>1679755809065</millis>
+  <nanos>384800</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.073277600Z</date>
+  <millis>1679755810073</millis>
+  <nanos>277600</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.075272Z</date>
+  <millis>1679755810075</millis>
+  <nanos>272000</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Лист Студенты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.082816600Z</date>
+  <millis>1679755810082</millis>
+  <nanos>816600</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.083847400Z</date>
+  <millis>1679755810083</millis>
+  <nanos>847400</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.083847400Z</date>
+  <millis>1679755810083</millis>
+  <nanos>847400</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.116291100Z</date>
+  <millis>1679755810116</millis>
+  <nanos>291100</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.116291100Z</date>
+  <millis>1679755810116</millis>
+  <nanos>291100</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Лист Университеты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.124307300Z</date>
+  <millis>1679755810124</millis>
+  <nanos>307300</nanos>
+  <sequence>10</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.165576400Z</date>
+  <millis>1679755810165</millis>
+  <nanos>576400</nanos>
+  <sequence>11</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Начал работы со статистикой</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.175144500Z</date>
+  <millis>1679755810175</millis>
+  <nanos>144500</nanos>
+  <sequence>12</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Завершение работы со статистикой</message>
+  <param>[Statistics{studyProfile=StudyProfile{profileName='Медицина'}, avgExamScore=4.48, studentsQuantity=3, universitiesQuantity=3, universitiesNames=Московский Государственный Медицинский Университет;Тамбовский Университет Медицины;Самарский Медицинский Институт;}, Statistics{studyProfile=StudyProfile{profileName='Математика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Казанский Университет Вычислений;}, Statistics{studyProfile=StudyProfile{profileName='Лингвистика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Воронежский Литературно-Переводческий Университет;}, Statistics{studyProfile=StudyProfile{profileName='Физика'}, avgExamScore=4.48, studentsQuantity=8, universitiesQuantity=2, universitiesNames=Московский Выдуманный Университет;Московский Придуманный Институт;}]</param>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.187677200Z</date>
+  <millis>1679755810187</millis>
+  <nanos>677200</nanos>
+  <sequence>13</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началась запись в файл</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.234577200Z</date>
+  <millis>1679755810234</millis>
+  <nanos>577200</nanos>
+  <sequence>14</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан workbook XSSFWorkbook</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.246320500Z</date>
+  <millis>1679755810246</millis>
+  <nanos>320500</nanos>
+  <sequence>15</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан лист Статистика</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.251789300Z</date>
+  <millis>1679755810251</millis>
+  <nanos>789300</nanos>
+  <sequence>16</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Study Profile</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.252786200Z</date>
+  <millis>1679755810252</millis>
+  <nanos>786200</nanos>
+  <sequence>17</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Average Exam Score</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.253784900Z</date>
+  <millis>1679755810253</millis>
+  <nanos>784900</nanos>
+  <sequence>18</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Students Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.254781Z</date>
+  <millis>1679755810254</millis>
+  <nanos>781000</nanos>
+  <sequence>19</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.254781Z</date>
+  <millis>1679755810254</millis>
+  <nanos>781000</nanos>
+  <sequence>20</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Names</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.255778300Z</date>
+  <millis>1679755810255</millis>
+  <nanos>778300</nanos>
+  <sequence>21</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началось внесение данных</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.342021300Z</date>
+  <millis>1679755810342</millis>
+  <nanos>21300</nanos>
+  <sequence>22</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Запись файла прошла успешно</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.357110500Z</date>
+  <millis>1679755810357</millis>
+  <nanos>110500</nanos>
+  <sequence>23</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling started</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.363095300Z</date>
+  <millis>1679755810363</millis>
+  <nanos>95300</nanos>
+  <sequence>24</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling failed</message>
+  <exception>
+    <message>javax.xml.bind.JAXBException: Implementation of JAXB-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: com.sun.xml.bind.v2.ContextFactory]</message>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>269</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>412</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>721</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>org.example.IO.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>org.example.Main</class>
+      <method>main</method>
+      <line>57</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.372602600Z</date>
+  <millis>1679755810372</millis>
+  <nanos>602600</nanos>
+  <sequence>25</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.373600200Z</date>
+  <millis>1679755810373</millis>
+  <nanos>600200</nanos>
+  <sequence>26</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>Папка успешно создана</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.434724200Z</date>
+  <millis>1679755810434</millis>
+  <nanos>724200</nanos>
+  <sequence>27</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-03-25T14:50:10.435721200Z</date>
+  <millis>1679755810435</millis>
+  <nanos>721200</nanos>
+  <sequence>28</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Конец работы программы</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-25T14:54:02.796769200Z</date>
+  <millis>1679756042796</millis>
+  <nanos>769200</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Начало работы программы</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:02.838524700Z</date>
+  <millis>1679756042838</millis>
+  <nanos>524700</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:02.839564700Z</date>
+  <millis>1679756042839</millis>
+  <nanos>564700</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.721002200Z</date>
+  <millis>1679756043721</millis>
+  <nanos>2200</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.722999900Z</date>
+  <millis>1679756043722</millis>
+  <nanos>999900</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Лист Студенты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.728564300Z</date>
+  <millis>1679756043728</millis>
+  <nanos>564300</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.729561600Z</date>
+  <millis>1679756043729</millis>
+  <nanos>561600</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.729561600Z</date>
+  <millis>1679756043729</millis>
+  <nanos>561600</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.758618300Z</date>
+  <millis>1679756043758</millis>
+  <nanos>618300</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.758618300Z</date>
+  <millis>1679756043758</millis>
+  <nanos>618300</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Лист Университеты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.762724400Z</date>
+  <millis>1679756043762</millis>
+  <nanos>724400</nanos>
+  <sequence>10</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.794340800Z</date>
+  <millis>1679756043794</millis>
+  <nanos>340800</nanos>
+  <sequence>11</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Начал работы со статистикой</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.799858300Z</date>
+  <millis>1679756043799</millis>
+  <nanos>858300</nanos>
+  <sequence>12</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Завершение работы со статистикой</message>
+  <param>[Statistics{studyProfile=StudyProfile{profileName='Физика'}, avgExamScore=4.48, studentsQuantity=8, universitiesQuantity=2, universitiesNames=Московский Выдуманный Университет;Московский Придуманный Институт;}, Statistics{studyProfile=StudyProfile{profileName='Лингвистика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Воронежский Литературно-Переводческий Университет;}, Statistics{studyProfile=StudyProfile{profileName='Медицина'}, avgExamScore=4.48, studentsQuantity=3, universitiesQuantity=3, universitiesNames=Московский Государственный Медицинский Университет;Тамбовский Университет Медицины;Самарский Медицинский Институт;}, Statistics{studyProfile=StudyProfile{profileName='Математика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Казанский Университет Вычислений;}]</param>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.808479700Z</date>
+  <millis>1679756043808</millis>
+  <nanos>479700</nanos>
+  <sequence>13</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началась запись в файл</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.852973200Z</date>
+  <millis>1679756043852</millis>
+  <nanos>973200</nanos>
+  <sequence>14</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан workbook XSSFWorkbook</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.863539Z</date>
+  <millis>1679756043863</millis>
+  <nanos>539000</nanos>
+  <sequence>15</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан лист Статистика</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.868523700Z</date>
+  <millis>1679756043868</millis>
+  <nanos>523700</nanos>
+  <sequence>16</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Study Profile</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.869497400Z</date>
+  <millis>1679756043869</millis>
+  <nanos>497400</nanos>
+  <sequence>17</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Average Exam Score</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.869497400Z</date>
+  <millis>1679756043869</millis>
+  <nanos>497400</nanos>
+  <sequence>18</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Students Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.869497400Z</date>
+  <millis>1679756043869</millis>
+  <nanos>497400</nanos>
+  <sequence>19</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.871081100Z</date>
+  <millis>1679756043871</millis>
+  <nanos>81100</nanos>
+  <sequence>20</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Names</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.871081100Z</date>
+  <millis>1679756043871</millis>
+  <nanos>81100</nanos>
+  <sequence>21</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началось внесение данных</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.949926500Z</date>
+  <millis>1679756043949</millis>
+  <nanos>926500</nanos>
+  <sequence>22</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Запись файла прошла успешно</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.965898200Z</date>
+  <millis>1679756043965</millis>
+  <nanos>898200</nanos>
+  <sequence>23</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling started</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.973877300Z</date>
+  <millis>1679756043973</millis>
+  <nanos>877300</nanos>
+  <sequence>24</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling failed</message>
+  <exception>
+    <message>javax.xml.bind.JAXBException: Implementation of JAXB-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: com.sun.xml.bind.v2.ContextFactory]</message>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>269</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>412</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>721</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>org.example.IO.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>org.example.Main</class>
+      <method>main</method>
+      <line>57</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-03-25T14:54:03.977379Z</date>
+  <millis>1679756043977</millis>
+  <nanos>379000</nanos>
+  <sequence>25</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:04.040047100Z</date>
+  <millis>1679756044040</millis>
+  <nanos>47100</nanos>
+  <sequence>26</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-03-25T14:54:04.040047100Z</date>
+  <millis>1679756044040</millis>
+  <nanos>47100</nanos>
+  <sequence>27</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Конец работы программы</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-25T14:55:44.343965500Z</date>
+  <millis>1679756144343</millis>
+  <nanos>965500</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Начало работы программы</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:44.395516300Z</date>
+  <millis>1679756144395</millis>
+  <nanos>516300</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:44.396024400Z</date>
+  <millis>1679756144396</millis>
+  <nanos>24400</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.245017100Z</date>
+  <millis>1679756145245</millis>
+  <nanos>17100</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.247012Z</date>
+  <millis>1679756145247</millis>
+  <nanos>12000</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Лист Студенты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.254504400Z</date>
+  <millis>1679756145254</millis>
+  <nanos>504400</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.255501200Z</date>
+  <millis>1679756145255</millis>
+  <nanos>501200</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.255501200Z</date>
+  <millis>1679756145255</millis>
+  <nanos>501200</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.287537600Z</date>
+  <millis>1679756145287</millis>
+  <nanos>537600</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.287537600Z</date>
+  <millis>1679756145287</millis>
+  <nanos>537600</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Лист Университеты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.292036400Z</date>
+  <millis>1679756145292</millis>
+  <nanos>36400</nanos>
+  <sequence>10</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.312999500Z</date>
+  <millis>1679756145312</millis>
+  <nanos>999500</nanos>
+  <sequence>11</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Начал работы со статистикой</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.320487900Z</date>
+  <millis>1679756145320</millis>
+  <nanos>487900</nanos>
+  <sequence>12</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Завершение работы со статистикой</message>
+  <param>[Statistics{studyProfile=StudyProfile{profileName='Лингвистика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Воронежский Литературно-Переводческий Университет;}, Statistics{studyProfile=StudyProfile{profileName='Математика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Казанский Университет Вычислений;}, Statistics{studyProfile=StudyProfile{profileName='Физика'}, avgExamScore=4.48, studentsQuantity=8, universitiesQuantity=2, universitiesNames=Московский Выдуманный Университет;Московский Придуманный Институт;}, Statistics{studyProfile=StudyProfile{profileName='Медицина'}, avgExamScore=4.48, studentsQuantity=3, universitiesQuantity=3, universitiesNames=Московский Государственный Медицинский Университет;Тамбовский Университет Медицины;Самарский Медицинский Институт;}]</param>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.330465600Z</date>
+  <millis>1679756145330</millis>
+  <nanos>465600</nanos>
+  <sequence>13</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началась запись в файл</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.378180500Z</date>
+  <millis>1679756145378</millis>
+  <nanos>180500</nanos>
+  <sequence>14</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан workbook XSSFWorkbook</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.392716700Z</date>
+  <millis>1679756145392</millis>
+  <nanos>716700</nanos>
+  <sequence>15</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан лист Статистика</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.400698300Z</date>
+  <millis>1679756145400</millis>
+  <nanos>698300</nanos>
+  <sequence>16</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Study Profile</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.401728600Z</date>
+  <millis>1679756145401</millis>
+  <nanos>728600</nanos>
+  <sequence>17</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Average Exam Score</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.402725Z</date>
+  <millis>1679756145402</millis>
+  <nanos>725000</nanos>
+  <sequence>18</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Students Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.403231900Z</date>
+  <millis>1679756145403</millis>
+  <nanos>231900</nanos>
+  <sequence>19</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.404234200Z</date>
+  <millis>1679756145404</millis>
+  <nanos>234200</nanos>
+  <sequence>20</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Names</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.404234200Z</date>
+  <millis>1679756145404</millis>
+  <nanos>234200</nanos>
+  <sequence>21</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началось внесение данных</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.487278600Z</date>
+  <millis>1679756145487</millis>
+  <nanos>278600</nanos>
+  <sequence>22</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Запись файла прошла успешно</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.496951500Z</date>
+  <millis>1679756145496</millis>
+  <nanos>951500</nanos>
+  <sequence>23</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling started</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.502501700Z</date>
+  <millis>1679756145502</millis>
+  <nanos>501700</nanos>
+  <sequence>24</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling failed</message>
+  <exception>
+    <message>javax.xml.bind.JAXBException: Implementation of JAXB-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: com.sun.xml.internal.bind.v2.ContextFactory]</message>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>272</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>405</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>680</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>624</line>
+    </frame>
+    <frame>
+      <class>org.example.IO.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>org.example.Main</class>
+      <method>main</method>
+      <line>57</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.507489100Z</date>
+  <millis>1679756145507</millis>
+  <nanos>489100</nanos>
+  <sequence>25</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.559937100Z</date>
+  <millis>1679756145559</millis>
+  <nanos>937100</nanos>
+  <sequence>26</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-03-25T14:55:45.560935200Z</date>
+  <millis>1679756145560</millis>
+  <nanos>935200</nanos>
+  <sequence>27</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Конец работы программы</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-25T14:57:20.628101900Z</date>
+  <millis>1679756240628</millis>
+  <nanos>101900</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Начало работы программы</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:20.679834600Z</date>
+  <millis>1679756240679</millis>
+  <nanos>834600</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:20.679834600Z</date>
+  <millis>1679756240679</millis>
+  <nanos>834600</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.543705300Z</date>
+  <millis>1679756241543</millis>
+  <nanos>705300</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.545271200Z</date>
+  <millis>1679756241545</millis>
+  <nanos>271200</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Лист Студенты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.551257900Z</date>
+  <millis>1679756241551</millis>
+  <nanos>257900</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.552255200Z</date>
+  <millis>1679756241552</millis>
+  <nanos>255200</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.552255200Z</date>
+  <millis>1679756241552</millis>
+  <nanos>255200</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.578903500Z</date>
+  <millis>1679756241578</millis>
+  <nanos>903500</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.579876800Z</date>
+  <millis>1679756241579</millis>
+  <nanos>876800</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Лист Университеты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.583942500Z</date>
+  <millis>1679756241583</millis>
+  <nanos>942500</nanos>
+  <sequence>10</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.599624500Z</date>
+  <millis>1679756241599</millis>
+  <nanos>624500</nanos>
+  <sequence>11</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Начал работы со статистикой</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.609934700Z</date>
+  <millis>1679756241609</millis>
+  <nanos>934700</nanos>
+  <sequence>12</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Завершение работы со статистикой</message>
+  <param>[Statistics{studyProfile=StudyProfile{profileName='Физика'}, avgExamScore=4.48, studentsQuantity=8, universitiesQuantity=2, universitiesNames=Московский Выдуманный Университет;Московский Придуманный Институт;}, Statistics{studyProfile=StudyProfile{profileName='Лингвистика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Воронежский Литературно-Переводческий Университет;}, Statistics{studyProfile=StudyProfile{profileName='Медицина'}, avgExamScore=4.48, studentsQuantity=3, universitiesQuantity=3, universitiesNames=Московский Государственный Медицинский Университет;Тамбовский Университет Медицины;Самарский Медицинский Институт;}, Statistics{studyProfile=StudyProfile{profileName='Математика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Казанский Университет Вычислений;}]</param>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.618125700Z</date>
+  <millis>1679756241618</millis>
+  <nanos>125700</nanos>
+  <sequence>13</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началась запись в файл</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.654404900Z</date>
+  <millis>1679756241654</millis>
+  <nanos>404900</nanos>
+  <sequence>14</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан workbook XSSFWorkbook</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.665963Z</date>
+  <millis>1679756241665</millis>
+  <nanos>963000</nanos>
+  <sequence>15</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан лист Статистика</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.670922Z</date>
+  <millis>1679756241670</millis>
+  <nanos>922000</nanos>
+  <sequence>16</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Study Profile</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.670922Z</date>
+  <millis>1679756241670</millis>
+  <nanos>922000</nanos>
+  <sequence>17</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Average Exam Score</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.671919400Z</date>
+  <millis>1679756241671</millis>
+  <nanos>919400</nanos>
+  <sequence>18</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Students Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.672916700Z</date>
+  <millis>1679756241672</millis>
+  <nanos>916700</nanos>
+  <sequence>19</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.673913300Z</date>
+  <millis>1679756241673</millis>
+  <nanos>913300</nanos>
+  <sequence>20</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Names</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.673913300Z</date>
+  <millis>1679756241673</millis>
+  <nanos>913300</nanos>
+  <sequence>21</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началось внесение данных</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.745255400Z</date>
+  <millis>1679756241745</millis>
+  <nanos>255400</nanos>
+  <sequence>22</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Запись файла прошла успешно</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.749244700Z</date>
+  <millis>1679756241749</millis>
+  <nanos>244700</nanos>
+  <sequence>23</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling started</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.756810900Z</date>
+  <millis>1679756241756</millis>
+  <nanos>810900</nanos>
+  <sequence>24</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling failed</message>
+  <exception>
+    <message>javax.xml.bind.JAXBException: Implementation of JAXB-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: com.sun.xml.bind.v2.ContextFactory]</message>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>269</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>412</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>721</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>org.example.IO.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>org.example.Main</class>
+      <method>main</method>
+      <line>57</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.758805400Z</date>
+  <millis>1679756241758</millis>
+  <nanos>805400</nanos>
+  <sequence>25</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.813646500Z</date>
+  <millis>1679756241813</millis>
+  <nanos>646500</nanos>
+  <sequence>26</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-03-25T14:57:21.814713800Z</date>
+  <millis>1679756241814</millis>
+  <nanos>713800</nanos>
+  <sequence>27</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Конец работы программы</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-25T14:58:53.615918500Z</date>
+  <millis>1679756333615</millis>
+  <nanos>918500</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Начало работы программы</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:53.665969100Z</date>
+  <millis>1679756333665</millis>
+  <nanos>969100</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:53.666966Z</date>
+  <millis>1679756333666</millis>
+  <nanos>966000</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.529176600Z</date>
+  <millis>1679756334529</millis>
+  <nanos>176600</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.531172100Z</date>
+  <millis>1679756334531</millis>
+  <nanos>172100</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Лист Студенты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.545167700Z</date>
+  <millis>1679756334545</millis>
+  <nanos>167700</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.545167700Z</date>
+  <millis>1679756334545</millis>
+  <nanos>167700</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.546165100Z</date>
+  <millis>1679756334546</millis>
+  <nanos>165100</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.575485600Z</date>
+  <millis>1679756334575</millis>
+  <nanos>485600</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.576484Z</date>
+  <millis>1679756334576</millis>
+  <nanos>484000</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Лист Университеты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.579983800Z</date>
+  <millis>1679756334579</millis>
+  <nanos>983800</nanos>
+  <sequence>10</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.594036200Z</date>
+  <millis>1679756334594</millis>
+  <nanos>36200</nanos>
+  <sequence>11</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Начал работы со статистикой</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.601349300Z</date>
+  <millis>1679756334601</millis>
+  <nanos>349300</nanos>
+  <sequence>12</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Завершение работы со статистикой</message>
+  <param>[Statistics{studyProfile=StudyProfile{profileName='Физика'}, avgExamScore=4.48, studentsQuantity=8, universitiesQuantity=2, universitiesNames=Московский Выдуманный Университет;Московский Придуманный Институт;}, Statistics{studyProfile=StudyProfile{profileName='Лингвистика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Воронежский Литературно-Переводческий Университет;}, Statistics{studyProfile=StudyProfile{profileName='Медицина'}, avgExamScore=4.48, studentsQuantity=3, universitiesQuantity=3, universitiesNames=Московский Государственный Медицинский Университет;Тамбовский Университет Медицины;Самарский Медицинский Институт;}, Statistics{studyProfile=StudyProfile{profileName='Математика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Казанский Университет Вычислений;}]</param>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.609325700Z</date>
+  <millis>1679756334609</millis>
+  <nanos>325700</nanos>
+  <sequence>13</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началась запись в файл</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.646391Z</date>
+  <millis>1679756334646</millis>
+  <nanos>391000</nanos>
+  <sequence>14</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан workbook XSSFWorkbook</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.658016Z</date>
+  <millis>1679756334658</millis>
+  <nanos>16000</nanos>
+  <sequence>15</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан лист Статистика</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.662510200Z</date>
+  <millis>1679756334662</millis>
+  <nanos>510200</nanos>
+  <sequence>16</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Study Profile</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.663507500Z</date>
+  <millis>1679756334663</millis>
+  <nanos>507500</nanos>
+  <sequence>17</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Average Exam Score</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.663507500Z</date>
+  <millis>1679756334663</millis>
+  <nanos>507500</nanos>
+  <sequence>18</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Students Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.664505Z</date>
+  <millis>1679756334664</millis>
+  <nanos>505000</nanos>
+  <sequence>19</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.665502Z</date>
+  <millis>1679756334665</millis>
+  <nanos>502000</nanos>
+  <sequence>20</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Names</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.665502Z</date>
+  <millis>1679756334665</millis>
+  <nanos>502000</nanos>
+  <sequence>21</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началось внесение данных</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.730714400Z</date>
+  <millis>1679756334730</millis>
+  <nanos>714400</nanos>
+  <sequence>22</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Запись файла прошла успешно</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.734210700Z</date>
+  <millis>1679756334734</millis>
+  <nanos>210700</nanos>
+  <sequence>23</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling started</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.741213200Z</date>
+  <millis>1679756334741</millis>
+  <nanos>213200</nanos>
+  <sequence>24</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling failed</message>
+  <exception>
+    <message>javax.xml.bind.JAXBException: Implementation of JAXB-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: com.sun.xml.bind.v2.ContextFactory]</message>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>269</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>412</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>721</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>org.example.IO.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>org.example.Main</class>
+      <method>main</method>
+      <line>57</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.744767800Z</date>
+  <millis>1679756334744</millis>
+  <nanos>767800</nanos>
+  <sequence>25</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.802823500Z</date>
+  <millis>1679756334802</millis>
+  <nanos>823500</nanos>
+  <sequence>26</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-03-25T14:58:54.803327Z</date>
+  <millis>1679756334803</millis>
+  <nanos>327000</nanos>
+  <sequence>27</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Конец работы программы</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-25T14:59:22.480663200Z</date>
+  <millis>1679756362480</millis>
+  <nanos>663200</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Начало работы программы</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:22.530835200Z</date>
+  <millis>1679756362530</millis>
+  <nanos>835200</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:22.531832700Z</date>
+  <millis>1679756362531</millis>
+  <nanos>832700</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.363051200Z</date>
+  <millis>1679756363363</millis>
+  <nanos>51200</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.365083Z</date>
+  <millis>1679756363365</millis>
+  <nanos>83000</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Лист Студенты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.371033100Z</date>
+  <millis>1679756363371</millis>
+  <nanos>33100</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.371033100Z</date>
+  <millis>1679756363371</millis>
+  <nanos>33100</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.371033100Z</date>
+  <millis>1679756363371</millis>
+  <nanos>33100</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.399621700Z</date>
+  <millis>1679756363399</millis>
+  <nanos>621700</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.399621700Z</date>
+  <millis>1679756363399</millis>
+  <nanos>621700</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Лист Университеты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.403441400Z</date>
+  <millis>1679756363403</millis>
+  <nanos>441400</nanos>
+  <sequence>10</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.411640900Z</date>
+  <millis>1679756363411</millis>
+  <nanos>640900</nanos>
+  <sequence>11</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Начал работы со статистикой</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.418131100Z</date>
+  <millis>1679756363418</millis>
+  <nanos>131100</nanos>
+  <sequence>12</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Завершение работы со статистикой</message>
+  <param>[Statistics{studyProfile=StudyProfile{profileName='Физика'}, avgExamScore=4.48, studentsQuantity=8, universitiesQuantity=2, universitiesNames=Московский Выдуманный Университет;Московский Придуманный Институт;}, Statistics{studyProfile=StudyProfile{profileName='Лингвистика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Воронежский Литературно-Переводческий Университет;}, Statistics{studyProfile=StudyProfile{profileName='Медицина'}, avgExamScore=4.48, studentsQuantity=3, universitiesQuantity=3, universitiesNames=Московский Государственный Медицинский Университет;Тамбовский Университет Медицины;Самарский Медицинский Институт;}, Statistics{studyProfile=StudyProfile{profileName='Математика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Казанский Университет Вычислений;}]</param>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.424524500Z</date>
+  <millis>1679756363424</millis>
+  <nanos>524500</nanos>
+  <sequence>13</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началась запись в файл</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.460999900Z</date>
+  <millis>1679756363460</millis>
+  <nanos>999900</nanos>
+  <sequence>14</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан workbook XSSFWorkbook</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.471403100Z</date>
+  <millis>1679756363471</millis>
+  <nanos>403100</nanos>
+  <sequence>15</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан лист Статистика</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.474978Z</date>
+  <millis>1679756363474</millis>
+  <nanos>978000</nanos>
+  <sequence>16</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Study Profile</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.476538200Z</date>
+  <millis>1679756363476</millis>
+  <nanos>538200</nanos>
+  <sequence>17</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Average Exam Score</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.476538200Z</date>
+  <millis>1679756363476</millis>
+  <nanos>538200</nanos>
+  <sequence>18</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Students Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.477537200Z</date>
+  <millis>1679756363477</millis>
+  <nanos>537200</nanos>
+  <sequence>19</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.478534600Z</date>
+  <millis>1679756363478</millis>
+  <nanos>534600</nanos>
+  <sequence>20</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Names</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.478534600Z</date>
+  <millis>1679756363478</millis>
+  <nanos>534600</nanos>
+  <sequence>21</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началось внесение данных</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.552156900Z</date>
+  <millis>1679756363552</millis>
+  <nanos>156900</nanos>
+  <sequence>22</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Запись файла прошла успешно</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.554671800Z</date>
+  <millis>1679756363554</millis>
+  <nanos>671800</nanos>
+  <sequence>23</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling started</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.561274100Z</date>
+  <millis>1679756363561</millis>
+  <nanos>274100</nanos>
+  <sequence>24</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling failed</message>
+  <exception>
+    <message>javax.xml.bind.JAXBException: Implementation of JAXB-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: com.sun.xml.bind.v2.ContextFactory]</message>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>269</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>412</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>721</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>org.example.IO.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>org.example.Main</class>
+      <method>main</method>
+      <line>57</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.563269200Z</date>
+  <millis>1679756363563</millis>
+  <nanos>269200</nanos>
+  <sequence>25</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.628864200Z</date>
+  <millis>1679756363628</millis>
+  <nanos>864200</nanos>
+  <sequence>26</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-03-25T14:59:23.629861500Z</date>
+  <millis>1679756363629</millis>
+  <nanos>861500</nanos>
+  <sequence>27</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Конец работы программы</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-25T15:00:15.257648600Z</date>
+  <millis>1679756415257</millis>
+  <nanos>648600</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Начало работы программы</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:15.314782Z</date>
+  <millis>1679756415314</millis>
+  <nanos>782000</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:15.315778800Z</date>
+  <millis>1679756415315</millis>
+  <nanos>778800</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.283594100Z</date>
+  <millis>1679756416283</millis>
+  <nanos>594100</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.285588300Z</date>
+  <millis>1679756416285</millis>
+  <nanos>588300</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Лист Студенты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.300378700Z</date>
+  <millis>1679756416300</millis>
+  <nanos>378700</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.301375700Z</date>
+  <millis>1679756416301</millis>
+  <nanos>375700</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.301375700Z</date>
+  <millis>1679756416301</millis>
+  <nanos>375700</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.332906300Z</date>
+  <millis>1679756416332</millis>
+  <nanos>906300</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.332906300Z</date>
+  <millis>1679756416332</millis>
+  <nanos>906300</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Лист Университеты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.345982500Z</date>
+  <millis>1679756416345</millis>
+  <nanos>982500</nanos>
+  <sequence>10</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.389791800Z</date>
+  <millis>1679756416389</millis>
+  <nanos>791800</nanos>
+  <sequence>11</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Начал работы со статистикой</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.400334300Z</date>
+  <millis>1679756416400</millis>
+  <nanos>334300</nanos>
+  <sequence>12</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Завершение работы со статистикой</message>
+  <param>[Statistics{studyProfile=StudyProfile{profileName='Физика'}, avgExamScore=4.48, studentsQuantity=8, universitiesQuantity=2, universitiesNames=Московский Выдуманный Университет;Московский Придуманный Институт;}, Statistics{studyProfile=StudyProfile{profileName='Лингвистика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Воронежский Литературно-Переводческий Университет;}, Statistics{studyProfile=StudyProfile{profileName='Медицина'}, avgExamScore=4.48, studentsQuantity=3, universitiesQuantity=3, universitiesNames=Московский Государственный Медицинский Университет;Тамбовский Университет Медицины;Самарский Медицинский Институт;}, Statistics{studyProfile=StudyProfile{profileName='Математика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Казанский Университет Вычислений;}]</param>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.413878700Z</date>
+  <millis>1679756416413</millis>
+  <nanos>878700</nanos>
+  <sequence>13</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началась запись в файл</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.459838600Z</date>
+  <millis>1679756416459</millis>
+  <nanos>838600</nanos>
+  <sequence>14</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан workbook XSSFWorkbook</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.471227800Z</date>
+  <millis>1679756416471</millis>
+  <nanos>227800</nanos>
+  <sequence>15</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан лист Статистика</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.475253300Z</date>
+  <millis>1679756416475</millis>
+  <nanos>253300</nanos>
+  <sequence>16</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Study Profile</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.476252700Z</date>
+  <millis>1679756416476</millis>
+  <nanos>252700</nanos>
+  <sequence>17</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Average Exam Score</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.477315500Z</date>
+  <millis>1679756416477</millis>
+  <nanos>315500</nanos>
+  <sequence>18</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Students Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.478318Z</date>
+  <millis>1679756416478</millis>
+  <nanos>318000</nanos>
+  <sequence>19</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.479313700Z</date>
+  <millis>1679756416479</millis>
+  <nanos>313700</nanos>
+  <sequence>20</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Names</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.479313700Z</date>
+  <millis>1679756416479</millis>
+  <nanos>313700</nanos>
+  <sequence>21</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началось внесение данных</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.550536800Z</date>
+  <millis>1679756416550</millis>
+  <nanos>536800</nanos>
+  <sequence>22</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Запись файла прошла успешно</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.565348800Z</date>
+  <millis>1679756416565</millis>
+  <nanos>348800</nanos>
+  <sequence>23</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling started</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.570867400Z</date>
+  <millis>1679756416570</millis>
+  <nanos>867400</nanos>
+  <sequence>24</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling failed</message>
+  <exception>
+    <message>javax.xml.bind.JAXBException: Implementation of JAXB-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: com.sun.xml.bind.v2.ContextFactory]</message>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>269</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>412</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>721</line>
+    </frame>
+    <frame>
+      <class>javax.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>org.example.IO.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>org.example.Main</class>
+      <method>main</method>
+      <line>57</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.580353Z</date>
+  <millis>1679756416580</millis>
+  <nanos>353000</nanos>
+  <sequence>25</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.633699500Z</date>
+  <millis>1679756416633</millis>
+  <nanos>699500</nanos>
+  <sequence>26</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-03-25T15:00:16.634698800Z</date>
+  <millis>1679756416634</millis>
+  <nanos>698800</nanos>
+  <sequence>27</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Конец работы программы</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-25T15:01:20.608160600Z</date>
+  <millis>1679756480608</millis>
+  <nanos>160600</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Начало работы программы</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:20.654391700Z</date>
+  <millis>1679756480654</millis>
+  <nanos>391700</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:20.655390600Z</date>
+  <millis>1679756480655</millis>
+  <nanos>390600</nanos>
+  <sequence>2</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.598280300Z</date>
+  <millis>1679756481598</millis>
+  <nanos>280300</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.599277300Z</date>
+  <millis>1679756481599</millis>
+  <nanos>277300</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Лист Студенты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.607791600Z</date>
+  <millis>1679756481607</millis>
+  <nanos>791600</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.607791600Z</date>
+  <millis>1679756481607</millis>
+  <nanos>791600</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Началось чтение файла</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.608788500Z</date>
+  <millis>1679756481608</millis>
+  <nanos>788500</nanos>
+  <sequence>7</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Файл прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.645449300Z</date>
+  <millis>1679756481645</millis>
+  <nanos>449300</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Workbook создан</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.645449300Z</date>
+  <millis>1679756481645</millis>
+  <nanos>449300</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Лист Университеты прочитан</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.649437200Z</date>
+  <millis>1679756481649</millis>
+  <nanos>437200</nanos>
+  <sequence>10</sequence>
+  <logger>org.example.IO.XSSFReader</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XSSFReader</class>
+  <method>readUniversity</method>
+  <thread>1</thread>
+  <message>Чтение файла завершено</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.666345700Z</date>
+  <millis>1679756481666</millis>
+  <nanos>345700</nanos>
+  <sequence>11</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Начал работы со статистикой</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.673604500Z</date>
+  <millis>1679756481673</millis>
+  <nanos>604500</nanos>
+  <sequence>12</sequence>
+  <logger>org.example.UtilityClasses.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>org.example.UtilityClasses.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Завершение работы со статистикой</message>
+  <param>[Statistics{studyProfile=StudyProfile{profileName='Медицина'}, avgExamScore=4.48, studentsQuantity=3, universitiesQuantity=3, universitiesNames=Московский Государственный Медицинский Университет;Тамбовский Университет Медицины;Самарский Медицинский Институт;}, Statistics{studyProfile=StudyProfile{profileName='Лингвистика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Воронежский Литературно-Переводческий Университет;}, Statistics{studyProfile=StudyProfile{profileName='Математика'}, avgExamScore=4.48, studentsQuantity=0, universitiesQuantity=1, universitiesNames=Казанский Университет Вычислений;}, Statistics{studyProfile=StudyProfile{profileName='Физика'}, avgExamScore=4.48, studentsQuantity=8, universitiesQuantity=2, universitiesNames=Московский Выдуманный Университет;Московский Придуманный Институт;}]</param>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.682146900Z</date>
+  <millis>1679756481682</millis>
+  <nanos>146900</nanos>
+  <sequence>13</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началась запись в файл</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.727775700Z</date>
+  <millis>1679756481727</millis>
+  <nanos>775700</nanos>
+  <sequence>14</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан workbook XSSFWorkbook</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.738256700Z</date>
+  <millis>1679756481738</millis>
+  <nanos>256700</nanos>
+  <sequence>15</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создан лист Статистика</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.743454Z</date>
+  <millis>1679756481743</millis>
+  <nanos>454000</nanos>
+  <sequence>16</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Study Profile</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.744454100Z</date>
+  <millis>1679756481744</millis>
+  <nanos>454100</nanos>
+  <sequence>17</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Average Exam Score</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.744454100Z</date>
+  <millis>1679756481744</millis>
+  <nanos>454100</nanos>
+  <sequence>18</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Students Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.745448400Z</date>
+  <millis>1679756481745</millis>
+  <nanos>448400</nanos>
+  <sequence>19</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Quantity</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.745448400Z</date>
+  <millis>1679756481745</millis>
+  <nanos>448400</nanos>
+  <sequence>20</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Создана клетка Universities Names</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.747005500Z</date>
+  <millis>1679756481747</millis>
+  <nanos>5500</nanos>
+  <sequence>21</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Началось внесение данных</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.821811700Z</date>
+  <millis>1679756481821</millis>
+  <nanos>811700</nanos>
+  <sequence>22</sequence>
+  <logger>org.example.IO.XlsWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XlsWriter</class>
+  <method>writeStatistics</method>
+  <thread>1</thread>
+  <message>Запись файла прошла успешно</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.830819700Z</date>
+  <millis>1679756481830</millis>
+  <nanos>819700</nanos>
+  <sequence>23</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling started</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.986445900Z</date>
+  <millis>1679756481986</millis>
+  <nanos>445900</nanos>
+  <sequence>24</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Папка успешно создана</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:21.999917100Z</date>
+  <millis>1679756481999</millis>
+  <nanos>917100</nanos>
+  <sequence>25</sequence>
+  <logger>org.example.IO.XmlWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Xml marshalling finished successfully</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:22.002417900Z</date>
+  <millis>1679756482002</millis>
+  <nanos>417900</nanos>
+  <sequence>26</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:22.048828600Z</date>
+  <millis>1679756482048</millis>
+  <nanos>828600</nanos>
+  <sequence>27</sequence>
+  <logger>org.example.IO.JsonWriter</logger>
+  <level>INFO</level>
+  <class>org.example.IO.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-03-25T15:01:22.049827Z</date>
+  <millis>1679756482049</millis>
+  <nanos>827000</nanos>
+  <sequence>28</sequence>
+  <logger>org.example.Main</logger>
+  <level>INFO</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Конец работы программы</message>
+</record>
+</log>

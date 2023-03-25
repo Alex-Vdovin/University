@@ -1,0 +1,68 @@
+[
+  {
+    "Full name of student": "Петров П. А.",
+    "University Identification": "0001-high",
+    "Course of the Student": 1,
+    "Average score": 5.0
+  },
+  {
+    "Full name of student": "Алексеев С. В.",
+    "University Identification": "0001-high",
+    "Course of the Student": 1,
+    "Average score": 5.0
+  },
+  {
+    "Full name of student": "Соколов В. В.",
+    "University Identification": "0004-high",
+    "Course of the Student": 1,
+    "Average score": 4.8
+  },
+  {
+    "Full name of student": "Иванов А. Г.",
+    "University Identification": "0001-high",
+    "Course of the Student": 3,
+    "Average score": 4.8
+  },
+  {
+    "Full name of student": "Васильев В. П.",
+    "University Identification": "0001-high",
+    "Course of the Student": 4,
+    "Average score": 4.7
+  },
+  {
+    "Full name of student": "Козлов М. В.",
+    "University Identification": "0002-high",
+    "Course of the Student": 2,
+    "Average score": 4.6
+  },
+  {
+    "Full name of student": "Игнатьев М. М.",
+    "University Identification": "0003-high",
+    "Course of the Student": 4,
+    "Average score": 4.3
+  },
+  {
+    "Full name of student": "Фёдоров А. И.",
+    "University Identification": "0002-high",
+    "Course of the Student": 3,
+    "Average score": 4.2
+  },
+  {
+    "Full name of student": "Иванов И. А.",
+    "University Identification": "0002-high",
+    "Course of the Student": 2,
+    "Average score": 4.0
+  },
+  {
+    "Full name of student": "Витальев В. А.",
+    "University Identification": "0001-high",
+    "Course of the Student": 2,
+    "Average score": 4.0
+  },
+  {
+    "Full name of student": "Сидоров Е. Г.",
+    "University Identification": "0004-high",
+    "Course of the Student": 2,
+    "Average score": 3.9
+  }
+]

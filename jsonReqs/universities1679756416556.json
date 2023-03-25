@@ -1,0 +1,51 @@
+[
+  {
+    "University Id": "0001-high",
+    "Full name of University": "Московский Выдуманный Университет",
+    "University Abbreviation": "МВУ",
+    "Year of Foundation": 1990,
+    "Main Profile": "PHYSICS"
+  },
+  {
+    "University Id": "0002-high",
+    "Full name of University": "Московский Придуманный Институт",
+    "University Abbreviation": "МПИ",
+    "Year of Foundation": 1987,
+    "Main Profile": "PHYSICS"
+  },
+  {
+    "University Id": "0003-high",
+    "Full name of University": "Московский Государственный Медицинский Университет",
+    "University Abbreviation": "МГМУ",
+    "Year of Foundation": 1960,
+    "Main Profile": "MEDICINE"
+  },
+  {
+    "University Id": "0004-high",
+    "Full name of University": "Тамбовский Университет Медицины",
+    "University Abbreviation": "ТУМ",
+    "Year of Foundation": 1995,
+    "Main Profile": "MEDICINE"
+  },
+  {
+    "University Id": "0005-high",
+    "Full name of University": "Самарский Медицинский Институт",
+    "University Abbreviation": "СМИ",
+    "Year of Foundation": 1936,
+    "Main Profile": "MEDICINE"
+  },
+  {
+    "University Id": "0006-high",
+    "Full name of University": "Воронежский Литературно-Переводческий Университет",
+    "University Abbreviation": "ВЛПУ",
+    "Year of Foundation": 2003,
+    "Main Profile": "LINGUISTICS"
+  },
+  {
+    "University Id": "0007-high",
+    "Full name of University": "Казанский Университет Вычислений",
+    "University Abbreviation": "КУВ",
+    "Year of Foundation": 1989,
+    "Main Profile": "MATHEMATICS"
+  }
+]
